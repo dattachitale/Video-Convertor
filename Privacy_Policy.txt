@@ -1,0 +1,13 @@
+﻿The following message should be notified to the user when installing Dumo: 
+
+Please review the wording with DPO (legal privacy team first) before adding it in your new tool.: 
+
+Ubisoft processes your personal data to provide you with collaborative tools necessary for employees’ activities. Personal data can also be processed to understand the use of this application and to improve your experience.
+
+This processing may be necessary for the performance of the employment contract entered with Ubisoft. Ubisoft‘s legitimate interest to develop collaborative tools for employees may also justify the processing of your personal data on this application.
+
+Your personal data will be accessible by Ubisoft, its affiliates and sub-processors and will be stored for a maximum of 5 years after the end of your employment contract.
+
+You can request a copy of your data, its deletion or rectification, object to the processing of your data, request the restriction of its processing, and/or receive your information in portable form by contacting dpo@ubisoft.com.
+
+After contacting us, if you are not satisfied with the way we have handled your request, you may address a complaint to the regulatory authority of your country.

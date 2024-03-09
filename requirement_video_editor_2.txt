@@ -1,0 +1,58 @@
+aiohttp @ file:///C:/ci/aiohttp_1637857271452/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+altgraph @ file:///home/linux1/recipes/ci/altgraph_1611055153312/work
+async-timeout @ file:///tmp/build/80754af9/async-timeout_1637851218186/work
+attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///C:/ci/cffi_1636542074879/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==7.1.2
+colorama==0.4.4
+commonmark==0.9.1
+cryptography @ file:///C:/ci/cryptography_1639472366776/work
+docopt==0.6.2
+elasticsearch==7.8.1
+ffmpy==0.3.0
+frozenlist @ file:///C:/ci/frozenlist_1637767289747/work
+future==0.18.2
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+macholib @ file:///home/linux1/recipes/ci/macholib_1611055836792/work
+multidict @ file:///C:/ci/multidict_1607362065515/work
+pefile==2019.4.18
+phonon==3.1
+pipreqs==0.4.11
+psutil @ file:///C:/ci/psutil_1612298324802/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycryptodome @ file:///C:/ci/pycryptodome_1613765534229/work
+pycurl==7.43.0.5
+Pygments==2.10.0
+pyinstaller==4.10
+pyinstaller-hooks-contrib==2022.2
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
+pyperclip==1.8.2
+PyQt5==5.15.4
+pyqt5-plugins==5.15.4.2.2
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+pyqt5-tools==5.15.4.3.2
+PySide6==6.2.0
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+python-dotenv==0.19.1
+pytz==2014.10
+pywin32==228
+pywin32-ctypes==0.2.0
+qt5-applications==5.15.2.2.2
+qt5-tools==5.15.2.1.2
+redis==2.10.5
+requests @ file:///tmp/build/80754af9/requests_1629994808627/work
+rich==10.12.0
+shiboken6==6.2.0
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+tornado==4.3
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+urllib3==1.26.7
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
+yarg==0.1.9
+yarl @ file:///C:/ci/yarl_1606940076464/work

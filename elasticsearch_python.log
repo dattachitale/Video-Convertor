@@ -1,0 +1,1010 @@
+[Elasticsearch] 2021-12-22 16:50:51,008 insert_file_Elasticsearch 54 Config file does not exist - default host: localhost
+[Elasticsearch] 2021-12-22 16:50:51,008 insert_file_Elasticsearch 55 Config file does not exist - default portnumber: 9200
+[Elasticsearch] 2021-12-22 16:51:07,099 insert_file_Elasticsearch 62 Cannot connect to Elasticsearch Engine
+[Elasticsearch] 2021-12-22 17:27:23,284 insert_file_Elasticsearch 54 Config file does not exist - default host: localhost
+[Elasticsearch] 2021-12-22 17:27:23,284 insert_file_Elasticsearch 55 Config file does not exist - default portnumber: 9200
+[Elasticsearch] 2021-12-22 17:27:39,344 insert_file_Elasticsearch 62 Cannot connect to Elasticsearch Engine
+[Elasticsearch] 2021-12-22 17:29:04,561 insert_file_Elasticsearch 54 Config file does not exist - default host: localhost
+[Elasticsearch] 2021-12-22 17:29:04,561 insert_file_Elasticsearch 55 Config file does not exist - default portnumber: 9200
+[Elasticsearch] 2021-12-22 18:09:58,103 insert_file_Elasticsearch 54 Config file does not exist - default host: localhost
+[Elasticsearch] 2021-12-22 18:09:58,103 insert_file_Elasticsearch 55 Config file does not exist - default portnumber: 9200
+[Elasticsearch] 2021-12-22 18:10:14,172 insert_file_Elasticsearch 62 Cannot connect to Elasticsearch Engine
+[Elasticsearch] 2021-12-22 18:11:14,297 insert_file_Elasticsearch 54 Config file does not exist - default host: localhost
+[Elasticsearch] 2021-12-22 18:11:14,298 insert_file_Elasticsearch 55 Config file does not exist - default portnumber: 9200
+[Elasticsearch] 2021-12-22 18:11:30,370 insert_file_Elasticsearch 62 Cannot connect to Elasticsearch Engine
+[Elasticsearch] 2021-12-22 18:15:20,849 insert_file_Elasticsearch 54 Config file does not exist - default host: localhost
+[Elasticsearch] 2021-12-22 18:15:20,850 insert_file_Elasticsearch 55 Config file does not exist - default portnumber: 9200
+[Elasticsearch] 2021-12-22 18:15:36,914 insert_file_Elasticsearch 62 Cannot connect to Elasticsearch Engine
+[Elasticsearch] 2021-12-22 18:26:43,358 insert_file_Elasticsearch 54 Config file does not exist - default host: localhost
+[Elasticsearch] 2021-12-22 18:26:43,359 insert_file_Elasticsearch 55 Config file does not exist - default portnumber: 9200
+[Elasticsearch] 2021-12-22 18:26:59,436 insert_file_Elasticsearch 62 Cannot connect to Elasticsearch Engine
+[Elasticsearch] 2021-12-22 18:28:05,166 insert_file_Elasticsearch 54 Config file does not exist - default host: localhost
+[Elasticsearch] 2021-12-22 18:28:05,167 insert_file_Elasticsearch 55 Config file does not exist - default portnumber: 9200
+[Elasticsearch] 2021-12-22 18:28:21,396 insert_file_Elasticsearch 62 Cannot connect to Elasticsearch Engine
+[Elasticsearch] 2022-01-07 10:02:02,876 insert_file_Elasticsearch 54 Config file does not exist - default host: localhost
+[Elasticsearch] 2022-01-07 10:02:02,889 insert_file_Elasticsearch 55 Config file does not exist - default portnumber: 9200
+[Elasticsearch] 2022-01-07 10:02:18,995 insert_file_Elasticsearch 62 Cannot connect to Elasticsearch Engine
+[Elasticsearch] 2022-01-11 09:38:38,843 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-11 09:38:38,857 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 09:38:38,873 insert_file_Elasticsearch 67 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-11 09:38:38,963 insert_file_Elasticsearch 127 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 09:44:10,088 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 09:44:10,088 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 09:44:10,097 insert_file_Elasticsearch 67 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 09:44:10,140 insert_file_Elasticsearch 127 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 10:04:58,316 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 10:04:58,316 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 10:04:58,331 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 10:04:58,472 insert_file_Elasticsearch 106 Index create response: {'error': {'root_cause': [{'type': 'invalid_index_name_exception', 'reason': 'Invalid index name [VIDEO_EDITOR_USAGE_STATS], must be lowercase', 'index_uuid': '_na_', 'index': 'VIDEO_EDITOR_USAGE_STATS'}], 'type': 'invalid_index_name_exception', 'reason': 'Invalid index name [VIDEO_EDITOR_USAGE_STATS], must be lowercase', 'index_uuid': '_na_', 'index': 'VIDEO_EDITOR_USAGE_STATS'}, 'status': 400}
+[Elasticsearch] 2022-01-11 10:04:58,683 insert_file_Elasticsearch 132 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 10:13:18,859 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 10:13:18,859 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 10:13:18,866 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 10:13:20,093 insert_file_Elasticsearch 106 Index create response: {'acknowledged': True, 'shards_acknowledged': True, 'index': 'video_editor_useage_stats'}
+[Elasticsearch] 2022-01-11 10:13:20,096 insert_file_Elasticsearch 116 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 10:13:20,097 insert_file_Elasticsearch 127 Inserted data into index: video_editor_useage_stats
+[Elasticsearch] 2022-01-11 10:13:20,097 insert_file_Elasticsearch 133 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 10:38:48,333 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 10:38:48,333 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 10:38:48,344 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 10:38:49,436 insert_file_Elasticsearch 106 Index create response: {'acknowledged': True, 'shards_acknowledged': True, 'index': 'video_editor_usage_stats'}
+[Elasticsearch] 2022-01-11 10:38:49,441 insert_file_Elasticsearch 117 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 10:38:49,442 insert_file_Elasticsearch 128 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 10:38:49,442 insert_file_Elasticsearch 134 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 10:41:51,005 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 10:41:51,005 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 10:41:51,014 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 10:41:51,095 insert_file_Elasticsearch 106 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/460Wb5NERGatAHo1spEU-w] already exists', 'index_uuid': '460Wb5NERGatAHo1spEU-w', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/460Wb5NERGatAHo1spEU-w] already exists', 'index_uuid': '460Wb5NERGatAHo1spEU-w', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 10:41:51,099 insert_file_Elasticsearch 119 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 10:41:51,099 insert_file_Elasticsearch 130 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 10:41:51,100 insert_file_Elasticsearch 136 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 10:45:58,114 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 10:45:58,115 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 10:45:58,122 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 10:45:59,238 insert_file_Elasticsearch 106 Index create response: {'acknowledged': True, 'shards_acknowledged': True, 'index': 'video_editor_usage_stats'}
+[Elasticsearch] 2022-01-11 10:45:59,241 insert_file_Elasticsearch 121 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 10:45:59,242 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 10:45:59,242 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 10:48:43,876 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 10:48:43,876 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 10:48:43,884 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 10:48:43,956 insert_file_Elasticsearch 106 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 10:48:43,962 insert_file_Elasticsearch 121 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 10:48:43,962 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 10:48:43,962 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 10:54:22,124 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 10:54:22,124 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 10:54:22,132 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 10:54:22,194 insert_file_Elasticsearch 106 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 10:54:22,198 insert_file_Elasticsearch 122 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 10:54:22,198 insert_file_Elasticsearch 134 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 10:54:22,199 insert_file_Elasticsearch 140 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 11:02:12,879 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:02:12,879 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 11:02:12,890 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:02:12,948 insert_file_Elasticsearch 106 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 11:02:12,953 insert_file_Elasticsearch 123 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 11:02:12,953 insert_file_Elasticsearch 135 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 11:02:12,953 insert_file_Elasticsearch 141 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 11:04:43,635 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:04:43,635 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 11:04:43,641 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:04:43,671 insert_file_Elasticsearch 106 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 11:04:43,676 insert_file_Elasticsearch 123 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 11:04:43,677 insert_file_Elasticsearch 135 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 11:04:43,677 insert_file_Elasticsearch 141 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 11:04:43,702 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:04:43,702 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 11:04:43,707 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:04:43,744 insert_file_Elasticsearch 106 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 11:04:43,750 insert_file_Elasticsearch 123 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 11:04:43,751 insert_file_Elasticsearch 135 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 11:04:43,751 insert_file_Elasticsearch 141 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 11:20:13,038 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:20:13,038 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 11:20:13,044 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:20:13,114 insert_file_Elasticsearch 106 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 11:20:13,116 insert_file_Elasticsearch 123 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 11:20:13,116 insert_file_Elasticsearch 135 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 11:20:13,117 insert_file_Elasticsearch 141 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 11:20:13,135 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:20:13,135 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 11:20:13,146 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:20:13,181 insert_file_Elasticsearch 106 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 11:20:13,183 insert_file_Elasticsearch 123 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 11:20:13,184 insert_file_Elasticsearch 135 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 11:20:13,184 insert_file_Elasticsearch 141 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 11:22:10,544 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:22:10,544 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 11:22:10,550 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:22:10,642 insert_file_Elasticsearch 106 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 11:22:10,652 insert_file_Elasticsearch 123 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 11:22:10,654 insert_file_Elasticsearch 135 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 11:22:10,655 insert_file_Elasticsearch 141 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 11:22:10,683 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:22:10,683 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 11:22:10,688 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:22:10,734 insert_file_Elasticsearch 106 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/bP_EYbnwTlm66_Rl2nFgWw] already exists', 'index_uuid': 'bP_EYbnwTlm66_Rl2nFgWw', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 11:22:10,738 insert_file_Elasticsearch 123 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 11:22:10,738 insert_file_Elasticsearch 135 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 11:22:10,738 insert_file_Elasticsearch 141 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 11:26:43,105 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:26:43,105 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 11:26:43,110 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:26:44,226 insert_file_Elasticsearch 106 Index create response: {'acknowledged': True, 'shards_acknowledged': True, 'index': 'video_editor_usage_stats'}
+[Elasticsearch] 2022-01-11 11:26:44,230 insert_file_Elasticsearch 123 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 11:26:44,231 insert_file_Elasticsearch 135 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 11:26:44,231 insert_file_Elasticsearch 141 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 11:26:44,245 insert_file_Elasticsearch 47 Config file details - host: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:26:44,245 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 11:26:44,248 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: 10.206.9.47
+[Elasticsearch] 2022-01-11 11:26:44,317 insert_file_Elasticsearch 106 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 11:26:44,320 insert_file_Elasticsearch 123 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 11:26:44,320 insert_file_Elasticsearch 135 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 11:26:44,320 insert_file_Elasticsearch 141 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 11:30:53,881 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-11 11:30:53,881 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 11:30:53,893 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-11 11:30:53,952 insert_file_Elasticsearch 106 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 11:30:53,956 insert_file_Elasticsearch 123 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 11:30:53,957 insert_file_Elasticsearch 135 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 11:30:53,957 insert_file_Elasticsearch 141 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 11:41:33,055 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-11 11:41:33,055 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 11:41:33,067 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-11 11:41:33,140 insert_file_Elasticsearch 106 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 11:41:33,147 insert_file_Elasticsearch 123 Number of Records inserted: 0
+[Elasticsearch] 2022-01-11 11:41:33,147 insert_file_Elasticsearch 135 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 11:41:33,147 insert_file_Elasticsearch 141 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 13:26:35,633 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-11 13:26:35,634 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 13:26:35,646 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-11 13:26:35,742 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 13:26:35,796 insert_file_Elasticsearch 126 [ERROR] Unexpected error: ('1 document(s) failed to index.', [{'index': {'_index': 'video_editor_usage_stats', '_type': 'type', '_id': 'n3MjSH4By5Jt5giJiT-s', 'status': 400, 'error': {'type': 'illegal_argument_exception', 'reason': 'Rejecting mapping update to [video_editor_usage_stats] as the final mapping would have more than 1 type: [_doc, type]'}, 'data': {'User': 'sdesai', 'Succeed_Count': '1', 'Removed_Audio': '0', 'TargetSize_Count': '0', 'Bitrate_Count': '1', 'Resolution_Count': '0', 'FPS_Count': '0', 'MP4_Count': '0', 'WMV_Count': '0', 'AVI_Count': '1'}}}])
+[Elasticsearch] 2022-01-11 13:27:25,411 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-11 13:27:25,412 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 13:27:25,425 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-11 13:27:25,521 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 13:27:25,880 insert_file_Elasticsearch 122 Number of Records inserted: 1
+[Elasticsearch] 2022-01-11 13:27:25,881 insert_file_Elasticsearch 134 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 13:27:25,881 insert_file_Elasticsearch 140 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 13:39:03,754 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-11 13:39:03,754 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 13:39:03,766 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-11 13:39:03,824 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 13:39:03,957 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-11 13:39:03,959 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 13:39:03,960 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 13:40:49,096 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-11 13:40:49,098 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 13:40:49,109 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-11 13:40:49,195 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 13:40:49,319 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-11 13:40:49,320 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 13:40:49,320 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 16:02:33,451 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-11 16:02:33,451 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 16:02:33,467 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-11 16:02:33,542 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 16:02:33,668 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-11 16:02:33,669 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 16:02:33,669 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 16:20:51,551 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-11 16:20:51,551 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 16:20:51,558 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-11 16:20:51,648 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 16:20:51,781 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-11 16:20:51,784 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 16:20:51,784 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-11 16:25:57,931 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-11 16:25:57,932 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-11 16:25:57,956 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-11 16:25:58,047 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-11 16:25:58,173 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-11 16:25:58,174 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-11 16:25:58,175 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-12 12:51:54,622 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-12 12:51:54,622 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-12 12:51:54,639 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-12 12:51:54,809 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-12 12:51:54,935 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-12 12:51:54,936 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-12 12:51:54,936 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-13 18:33:22,608 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-13 18:33:22,608 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-13 18:33:22,630 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-13 18:33:22,731 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-13 18:33:22,873 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-13 18:33:22,876 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-13 18:33:22,876 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-13 18:38:26,283 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-13 18:38:26,283 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-13 18:38:26,309 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-13 18:38:26,453 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-13 18:38:26,609 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-13 18:38:26,612 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-13 18:38:26,612 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-13 18:40:15,923 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-13 18:40:15,923 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-13 18:40:15,931 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-13 18:40:16,083 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-13 18:40:16,189 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-13 18:40:16,190 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-13 18:40:16,190 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-13 18:46:17,572 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-13 18:46:17,572 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-13 18:46:17,589 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-13 18:46:17,666 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-13 18:46:17,789 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-13 18:46:17,791 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-13 18:46:17,791 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-13 18:51:22,117 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-13 18:51:22,118 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-13 18:51:22,136 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-13 18:51:22,335 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-13 18:51:22,417 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-13 18:51:22,418 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-13 18:51:22,419 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-19 10:20:47,677 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-19 10:20:47,678 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-19 10:20:47,693 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-19 10:20:48,050 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-19 10:20:48,195 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-19 10:20:48,195 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-19 10:20:48,195 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-20 15:49:17,934 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-20 15:49:17,934 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-20 15:49:17,953 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-20 15:49:18,563 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-20 15:49:18,770 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-20 15:49:18,771 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-20 15:49:18,771 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-20 15:54:00,115 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-20 15:54:00,115 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-20 15:54:00,134 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-20 15:54:00,180 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-20 15:54:00,288 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-20 15:54:00,289 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-20 15:54:00,289 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-20 20:19:09,535 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-20 20:19:09,575 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-20 20:19:09,598 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-20 20:19:09,986 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-20 20:19:10,137 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-20 20:19:10,139 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-20 20:19:10,140 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-20 20:20:51,321 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-20 20:20:51,322 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-20 20:20:51,328 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-20 20:20:51,367 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-20 20:20:51,493 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-20 20:20:51,494 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-20 20:20:51,494 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-20 20:21:32,385 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-20 20:21:32,385 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-20 20:21:32,389 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-20 20:21:32,489 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-20 20:21:32,628 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-20 20:21:32,630 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-20 20:21:32,631 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-20 20:52:18,858 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-20 20:52:18,858 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-20 20:52:18,875 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-20 20:52:19,161 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-20 20:52:19,290 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-20 20:52:19,291 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-20 20:52:19,291 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-24 11:51:11,696 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-24 11:51:11,696 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-24 11:51:11,712 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-24 11:51:12,142 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-24 11:51:12,395 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-24 11:51:12,396 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-24 11:51:12,397 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-27 15:16:46,033 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-27 15:16:46,033 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-27 15:16:46,111 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-27 15:16:47,095 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-27 15:16:47,293 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-27 15:16:47,293 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-27 15:16:47,294 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-27 15:20:10,723 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-27 15:20:10,723 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-27 15:20:10,740 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-27 15:20:10,828 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-27 15:20:11,009 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-27 15:20:11,011 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-27 15:20:11,012 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-28 17:48:16,994 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-28 17:48:16,994 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-28 17:48:17,012 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-28 17:48:17,252 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-28 17:48:17,388 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-28 17:48:17,391 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-28 17:48:17,392 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-28 19:29:42,806 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-28 19:29:42,806 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-28 19:29:42,822 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-28 19:29:43,127 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-28 19:29:43,240 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-28 19:29:43,241 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-28 19:29:43,241 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-28 20:23:18,807 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-28 20:23:18,808 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-28 20:23:18,825 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-28 20:23:18,868 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-28 20:23:18,992 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-28 20:23:18,995 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-28 20:23:18,996 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-28 20:40:35,756 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-28 20:40:35,756 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-28 20:40:35,770 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-28 20:40:35,858 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-28 20:40:36,006 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-28 20:40:36,008 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-28 20:40:36,009 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-28 20:50:22,702 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-28 20:50:22,702 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-28 20:50:22,709 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-28 20:50:22,788 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-28 20:50:22,928 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-28 20:50:22,931 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-28 20:50:22,932 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-28 20:52:28,662 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-28 20:52:28,662 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-28 20:52:28,677 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-28 20:52:28,725 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-28 20:52:28,852 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-28 20:52:28,854 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-28 20:52:28,855 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-28 20:53:21,924 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-28 20:53:21,924 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-28 20:53:21,933 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-28 20:53:21,975 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-28 20:53:22,062 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-28 20:53:22,063 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-28 20:53:22,063 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-28 20:54:05,150 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-28 20:54:05,150 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-28 20:54:05,155 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-28 20:54:05,280 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-28 20:54:05,386 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-28 20:54:05,388 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-28 20:54:05,389 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-28 20:55:41,582 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-28 20:55:41,582 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-28 20:55:41,597 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-28 20:55:41,698 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-28 20:55:41,777 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-28 20:55:41,778 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-28 20:55:41,778 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-28 22:19:21,227 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-28 22:19:21,227 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-28 22:19:21,242 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-28 22:19:21,349 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-28 22:19:21,476 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-28 22:19:21,478 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-28 22:19:21,479 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-31 21:12:35,304 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-31 21:12:35,304 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-31 21:12:35,316 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-31 21:12:35,595 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-31 21:12:35,733 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-31 21:12:35,733 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-31 21:12:35,734 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-01-31 22:26:19,428 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-01-31 22:26:19,429 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-01-31 22:26:19,435 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-01-31 22:26:19,495 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-01-31 22:26:19,615 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-01-31 22:26:19,616 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-01-31 22:26:19,617 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-01 11:40:42,555 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-01 11:40:42,556 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-01 11:40:42,576 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-01 11:40:42,630 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-01 11:40:42,706 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-01 11:40:42,707 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-01 11:40:42,707 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-01 11:42:43,900 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-01 11:42:43,901 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-01 11:42:43,915 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-01 11:42:43,969 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-01 11:42:44,048 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-01 11:42:44,049 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-01 11:42:44,049 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-01 11:43:04,315 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-01 11:43:04,315 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-01 11:43:04,327 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-01 11:43:04,364 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-01 11:43:04,446 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-01 11:43:04,447 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-01 11:43:04,447 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-01 18:18:41,651 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-01 18:18:41,652 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-01 18:18:41,667 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-01 18:18:41,738 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-01 18:18:41,881 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-01 18:18:41,882 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-01 18:18:41,882 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-01 18:19:40,316 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-01 18:19:40,317 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-01 18:19:40,321 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-01 18:19:40,379 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-01 18:19:40,503 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-01 18:19:40,505 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-01 18:19:40,506 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-01 18:36:10,275 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-01 18:36:10,275 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-01 18:36:10,291 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-01 18:36:10,338 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-01 18:36:10,464 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-01 18:36:10,466 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-01 18:36:10,466 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-01 18:53:28,345 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-01 18:53:28,345 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-01 18:53:28,361 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-01 18:53:28,422 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-01 18:53:28,539 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-01 18:53:28,541 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-01 18:53:28,542 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-02 18:23:56,819 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-02 18:23:56,820 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-02 18:23:56,852 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-02 18:23:57,347 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-02 18:23:57,488 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-02 18:23:57,491 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-02 18:23:57,492 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-02 18:28:49,722 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-02 18:28:49,723 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-02 18:28:49,737 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-02 18:28:49,917 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-02 18:28:50,096 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-02 18:28:50,096 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-02 18:28:50,097 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-02 18:31:40,345 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-02 18:31:40,346 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-02 18:31:40,368 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-02 18:31:40,431 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-02 18:31:40,514 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-02 18:31:40,515 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-02 18:31:40,515 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-03 16:05:43,542 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-03 16:05:43,543 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-03 16:05:43,576 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-03 16:05:44,455 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-03 16:05:44,652 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-03 16:05:44,653 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-03 16:05:44,654 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-03 16:46:49,754 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-03 16:46:49,754 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-03 16:46:49,772 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-03 16:46:49,886 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-03 16:46:50,025 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-03 16:46:50,026 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-03 16:46:50,026 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-03 20:47:00,627 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-03 20:47:00,628 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-03 20:47:00,663 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-03 20:47:01,031 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-03 20:47:01,258 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-03 20:47:01,259 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-03 20:47:01,259 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-03 20:58:13,987 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-03 20:58:13,987 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-03 20:58:14,000 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-03 20:58:14,070 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-03 20:58:14,256 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-03 20:58:14,259 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-03 20:58:14,260 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-03 20:59:42,744 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-03 20:59:42,745 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-03 20:59:42,750 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-03 20:59:42,825 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-03 20:59:43,002 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-03 20:59:43,004 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-03 20:59:43,005 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-03 21:01:02,480 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-03 21:01:02,480 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-03 21:01:02,489 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-03 21:01:02,598 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-03 21:01:02,753 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-03 21:01:02,754 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-03 21:01:02,754 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-04 11:20:57,066 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-04 11:20:57,066 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-04 11:20:57,106 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-04 11:20:57,493 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-04 11:20:57,693 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-04 11:20:57,695 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-04 11:20:57,695 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-04 11:26:48,466 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-04 11:26:48,466 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-04 11:26:48,473 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-04 11:26:48,597 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-04 11:26:48,755 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-04 11:26:48,758 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-04 11:26:48,758 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-04 15:14:01,125 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-04 15:14:01,126 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-04 15:14:01,153 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-04 15:14:01,444 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-04 15:14:01,586 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-04 15:14:01,588 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-04 15:14:01,588 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-04 15:15:31,703 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-04 15:15:31,704 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-04 15:15:31,708 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-04 15:15:31,774 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-04 15:15:31,903 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-04 15:15:31,904 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-04 15:15:31,905 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-04 15:24:05,078 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-04 15:24:05,078 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-04 15:24:05,087 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-04 15:24:05,147 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-04 15:24:05,272 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-04 15:24:05,275 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-04 15:24:05,276 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-04 15:29:39,603 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-04 15:29:39,604 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-04 15:29:39,624 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-04 15:29:39,687 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-04 15:29:39,811 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-04 15:29:39,812 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-04 15:29:39,812 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-04 15:48:33,811 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-04 15:48:33,811 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-04 15:48:33,839 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-04 15:48:33,924 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-04 15:48:34,054 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-04 15:48:34,056 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-04 15:48:34,056 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-04 15:57:56,909 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-04 15:57:56,909 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-04 15:57:56,930 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-04 15:57:57,003 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-04 15:57:57,163 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-04 15:57:57,165 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-04 15:57:57,166 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-07 19:11:42,377 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-07 19:11:42,392 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-07 19:11:42,402 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-07 19:11:42,762 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-07 19:11:42,890 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-07 19:11:42,890 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-07 19:11:42,890 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-07 19:16:32,565 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-07 19:16:32,565 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-07 19:16:32,579 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-07 19:16:32,659 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-07 19:16:32,801 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-07 19:16:32,804 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-07 19:16:32,804 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-07 19:19:17,771 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-07 19:19:17,771 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-07 19:19:17,788 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-07 19:19:17,846 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-07 19:19:17,953 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-07 19:19:17,954 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-07 19:19:17,955 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-07 21:44:16,770 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-07 21:44:16,770 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-07 21:44:16,784 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-07 21:44:16,857 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-07 21:44:16,982 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-07 21:44:16,984 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-07 21:44:16,985 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-07 21:52:30,231 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-07 21:52:30,231 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-07 21:52:30,258 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-07 21:52:30,325 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-07 21:52:30,428 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-07 21:52:30,430 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-07 21:52:30,431 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-09 16:21:53,199 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-09 16:21:53,259 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-09 16:21:53,287 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-09 16:21:53,586 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-09 16:21:53,878 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-09 16:21:53,879 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-09 16:21:53,879 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-09 16:25:06,089 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-09 16:25:06,089 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-09 16:25:06,105 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-09 16:25:06,165 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-09 16:25:06,289 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-09 16:25:06,291 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-09 16:25:06,291 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-09 16:32:47,229 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-09 16:32:47,230 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-09 16:32:47,243 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-09 16:32:47,310 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-09 16:32:47,435 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-09 16:32:47,436 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-09 16:32:47,437 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-11 17:07:13,478 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-11 17:07:13,505 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-11 17:07:13,559 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-11 17:07:13,901 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-11 17:07:14,048 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-11 17:07:14,049 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-11 17:07:14,049 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-11 17:41:15,924 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-11 17:41:16,007 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-11 17:41:16,016 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-11 17:41:16,191 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-11 17:41:16,331 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-11 17:41:16,332 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-11 17:41:16,333 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-11 19:15:47,477 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-11 19:15:47,478 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-11 19:15:47,491 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-11 19:15:47,642 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-11 19:15:47,772 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-11 19:15:47,774 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-11 19:15:47,775 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-11 19:19:50,510 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-11 19:19:50,510 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-11 19:19:50,524 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-11 19:19:50,567 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-11 19:19:50,685 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-11 19:19:50,688 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-11 19:19:50,688 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-11 19:24:56,959 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-11 19:24:56,959 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-11 19:24:56,971 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-11 19:24:57,036 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-11 19:24:57,159 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-11 19:24:57,160 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-11 19:24:57,160 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-14 23:31:13,968 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-14 23:31:13,969 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-14 23:31:13,987 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-14 23:31:14,051 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats/ZKE4cPh5Qy-SUBqnlDDVbA] already exists', 'index_uuid': 'ZKE4cPh5Qy-SUBqnlDDVbA', 'index': 'video_editor_usage_stats'}, 'status': 400}
+[Elasticsearch] 2022-02-14 23:31:14,175 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-14 23:31:14,176 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats
+[Elasticsearch] 2022-02-14 23:31:14,176 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-16 16:06:19,063 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-16 16:06:19,063 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-16 16:06:19,110 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-16 16:06:20,771 insert_file_Elasticsearch 107 Index create response: {'acknowledged': True, 'shards_acknowledged': True, 'index': 'video_editor_usage_stats_test'}
+[Elasticsearch] 2022-02-16 16:06:21,152 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-16 16:06:21,154 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-02-16 16:06:21,155 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-16 16:40:34,106 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-16 16:40:34,106 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-16 16:40:34,189 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-16 16:40:34,246 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/9Ej7lYHpTOW2zPCdoenuyA] already exists', 'index_uuid': '9Ej7lYHpTOW2zPCdoenuyA', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/9Ej7lYHpTOW2zPCdoenuyA] already exists', 'index_uuid': '9Ej7lYHpTOW2zPCdoenuyA', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-02-16 16:40:34,402 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-16 16:40:34,404 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-02-16 16:40:34,405 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-16 16:41:11,172 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-16 16:41:11,172 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-16 16:41:11,191 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-16 16:41:11,244 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/9Ej7lYHpTOW2zPCdoenuyA] already exists', 'index_uuid': '9Ej7lYHpTOW2zPCdoenuyA', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/9Ej7lYHpTOW2zPCdoenuyA] already exists', 'index_uuid': '9Ej7lYHpTOW2zPCdoenuyA', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-02-16 16:41:11,360 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-16 16:41:11,361 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-02-16 16:41:11,361 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-16 16:44:04,326 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-16 16:44:04,326 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-16 16:44:04,334 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-16 16:44:04,405 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/9Ej7lYHpTOW2zPCdoenuyA] already exists', 'index_uuid': '9Ej7lYHpTOW2zPCdoenuyA', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/9Ej7lYHpTOW2zPCdoenuyA] already exists', 'index_uuid': '9Ej7lYHpTOW2zPCdoenuyA', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-02-16 16:44:04,523 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-16 16:44:04,525 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-02-16 16:44:04,526 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-16 16:44:15,584 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-16 16:44:15,585 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-16 16:44:15,595 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-16 16:44:15,652 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/9Ej7lYHpTOW2zPCdoenuyA] already exists', 'index_uuid': '9Ej7lYHpTOW2zPCdoenuyA', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/9Ej7lYHpTOW2zPCdoenuyA] already exists', 'index_uuid': '9Ej7lYHpTOW2zPCdoenuyA', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-02-16 16:44:15,761 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-16 16:44:15,762 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-02-16 16:44:15,762 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-16 17:43:49,027 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-16 17:43:49,028 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-16 17:43:49,049 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-16 17:43:50,175 insert_file_Elasticsearch 107 Index create response: {'acknowledged': True, 'shards_acknowledged': True, 'index': 'video_editor_usage_stats_test'}
+[Elasticsearch] 2022-02-16 17:43:50,614 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-16 17:43:50,615 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-02-16 17:43:50,615 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-16 17:44:11,107 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-16 17:44:11,107 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-16 17:44:11,113 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-16 17:44:11,209 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-02-16 17:44:11,317 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-16 17:44:11,319 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-02-16 17:44:11,320 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-16 17:47:38,930 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-16 17:47:38,930 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-16 17:47:38,939 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-16 17:47:38,997 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-02-16 17:47:39,099 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-16 17:47:39,100 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-02-16 17:47:39,100 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-16 18:13:31,966 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-16 18:13:31,966 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-16 18:13:31,980 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-16 18:13:32,065 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-02-16 18:13:32,204 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-16 18:13:32,205 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-02-16 18:13:32,205 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-16 18:17:39,889 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-16 18:17:39,889 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-16 18:17:39,936 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-16 18:17:39,971 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-02-16 18:17:40,061 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-16 18:17:40,062 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-02-16 18:17:40,062 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-16 18:18:07,798 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-16 18:18:07,798 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-16 18:18:07,802 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-16 18:18:07,865 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-02-16 18:18:07,950 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-16 18:18:07,951 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-02-16 18:18:07,951 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-16 23:43:16,584 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-16 23:43:16,585 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-16 23:43:16,597 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-16 23:43:16,897 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-02-16 23:43:17,079 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-16 23:43:17,079 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-02-16 23:43:17,079 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-17 11:53:42,243 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-17 11:53:42,244 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-17 11:53:42,256 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-17 11:53:44,275 insert_file_Elasticsearch 107 Index create response: {'acknowledged': True, 'shards_acknowledged': True, 'index': 'video_editor_usage_stats_prod'}
+[Elasticsearch] 2022-02-17 11:53:44,692 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-17 11:53:44,694 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_prod
+[Elasticsearch] 2022-02-17 11:53:44,695 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-17 14:26:18,694 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-17 14:26:18,694 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-17 14:26:18,700 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-17 14:26:19,284 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}, 'status': 400}
+[Elasticsearch] 2022-02-17 14:26:19,510 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-17 14:26:19,512 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_prod
+[Elasticsearch] 2022-02-17 14:26:19,512 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-02-17 14:28:17,430 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-02-17 14:28:17,430 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-02-17 14:28:17,439 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-02-17 14:28:17,870 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}, 'status': 400}
+[Elasticsearch] 2022-02-17 14:28:18,024 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-02-17 14:28:18,025 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_prod
+[Elasticsearch] 2022-02-17 14:28:18,025 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 12:03:58,426 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:03:58,426 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 12:03:58,706 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:03:59,708 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}, 'status': 400}
+[Elasticsearch] 2022-03-02 12:04:00,026 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 12:04:00,027 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_prod
+[Elasticsearch] 2022-03-02 12:04:00,027 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 12:04:57,065 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:04:57,065 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 12:04:57,089 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:04:57,149 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}, 'status': 400}
+[Elasticsearch] 2022-03-02 12:04:57,249 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 12:04:57,251 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_prod
+[Elasticsearch] 2022-03-02 12:04:57,251 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 12:14:25,454 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:14:25,455 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 12:14:25,497 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:14:25,568 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}, 'status': 400}
+[Elasticsearch] 2022-03-02 12:14:25,679 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 12:14:25,680 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_prod
+[Elasticsearch] 2022-03-02 12:14:25,680 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 12:15:07,216 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:15:07,216 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 12:15:07,251 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:15:07,329 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}, 'status': 400}
+[Elasticsearch] 2022-03-02 12:15:07,447 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 12:15:07,448 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_prod
+[Elasticsearch] 2022-03-02 12:15:07,449 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 12:17:28,886 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:17:28,886 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 12:17:28,919 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:17:28,982 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}, 'status': 400}
+[Elasticsearch] 2022-03-02 12:17:29,069 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 12:17:29,070 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_prod
+[Elasticsearch] 2022-03-02 12:17:29,070 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 12:21:50,513 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:21:50,514 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 12:21:50,546 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:21:50,596 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}, 'status': 400}
+[Elasticsearch] 2022-03-02 12:21:50,678 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 12:21:50,680 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_prod
+[Elasticsearch] 2022-03-02 12:21:50,680 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 12:42:03,285 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:42:03,285 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 12:42:03,309 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:42:03,340 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}, 'status': 400}
+[Elasticsearch] 2022-03-02 12:42:03,508 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 12:42:03,510 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_prod
+[Elasticsearch] 2022-03-02 12:42:03,511 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 12:43:35,937 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:43:35,937 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 12:43:35,955 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:43:36,008 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}, 'status': 400}
+[Elasticsearch] 2022-03-02 12:43:36,128 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 12:43:36,129 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_prod
+[Elasticsearch] 2022-03-02 12:43:36,129 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 12:43:54,069 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:43:54,069 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 12:43:54,087 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:43:54,129 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}, 'status': 400}
+[Elasticsearch] 2022-03-02 12:43:54,309 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 12:43:54,312 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_prod
+[Elasticsearch] 2022-03-02 12:43:54,312 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 12:45:40,279 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:45:40,279 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 12:45:40,293 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:45:40,327 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_prod/cfzj7IUnQLKcCB-JsYbHBw] already exists', 'index_uuid': 'cfzj7IUnQLKcCB-JsYbHBw', 'index': 'video_editor_usage_stats_prod'}, 'status': 400}
+[Elasticsearch] 2022-03-02 12:45:40,421 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 12:45:40,422 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_prod
+[Elasticsearch] 2022-03-02 12:45:40,422 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 12:47:54,243 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:47:54,244 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 12:47:54,272 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:47:54,329 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 12:47:54,596 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 12:47:54,597 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 12:47:54,597 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 12:58:13,446 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:58:13,446 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 12:58:13,468 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 12:58:13,621 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 12:58:13,755 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 12:58:13,758 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 12:58:13,759 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 13:38:35,109 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 13:38:35,121 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 13:38:35,144 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 13:38:35,462 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 13:38:35,623 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 13:38:35,624 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 13:38:35,625 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 13:40:09,194 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 13:40:09,194 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 13:40:09,212 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 13:40:09,412 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 13:40:09,589 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 13:40:09,590 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 13:40:09,591 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 14:08:35,278 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 14:08:35,278 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 14:08:35,299 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 14:08:35,528 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 14:08:35,695 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 14:08:35,696 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 14:08:35,697 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 14:29:56,086 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 14:29:56,086 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 14:29:56,174 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 14:29:56,949 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 14:29:57,117 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 14:29:57,118 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 14:29:57,118 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 14:30:48,831 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 14:30:48,831 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 14:30:48,848 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 14:30:48,910 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 14:30:49,016 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 14:30:49,018 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 14:30:49,019 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 14:31:32,022 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 14:31:32,022 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 14:31:32,032 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 14:31:32,106 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 14:31:32,191 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 14:31:32,191 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 14:31:32,192 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 17:34:44,561 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 17:34:44,561 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 17:34:44,575 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 17:34:44,971 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 17:34:45,141 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 17:34:45,142 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 17:34:45,142 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 17:36:56,362 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 17:36:56,362 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 17:36:56,368 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 17:36:56,431 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 17:36:56,599 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 17:36:56,601 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 17:36:56,602 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 17:38:13,938 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 17:38:13,938 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 17:38:13,943 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 17:38:13,989 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 17:38:14,145 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 17:38:14,147 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 17:38:14,147 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 17:39:00,815 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 17:39:00,815 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 17:39:00,829 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 17:39:00,933 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 17:39:01,030 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 17:39:01,031 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 17:39:01,032 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 18:15:59,504 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 18:15:59,504 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 18:15:59,518 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 18:15:59,575 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 18:15:59,758 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 18:15:59,761 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 18:15:59,761 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 18:16:52,723 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 18:16:52,723 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 18:16:52,729 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 18:16:52,837 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 18:16:52,951 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 18:16:52,952 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 18:16:52,952 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 18:17:29,158 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 18:17:29,159 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 18:17:29,176 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 18:17:29,265 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 18:17:29,424 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 18:17:29,424 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 18:17:29,425 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-02 18:18:27,387 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-02 18:18:27,388 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-02 18:18:27,409 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-02 18:18:27,475 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-02 18:18:27,589 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-02 18:18:27,591 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-02 18:18:27,592 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-14 09:24:07,281 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-14 09:24:07,297 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-14 09:24:07,328 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-14 09:24:07,382 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-14 09:24:07,519 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-14 09:24:07,520 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-14 09:24:07,520 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-03-14 09:26:10,993 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-03-14 09:26:10,993 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-03-14 09:26:11,021 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-03-14 09:26:11,065 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-03-14 09:26:11,168 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-03-14 09:26:11,168 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-03-14 09:26:11,168 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-04-04 12:35:59,795 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-04-04 12:35:59,823 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-04-04 12:35:59,839 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-04-04 12:36:00,127 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-04-04 12:36:00,343 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-04-04 12:36:00,343 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-04-04 12:36:00,344 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-04-04 12:44:55,568 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-04-04 12:44:55,568 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-04-04 12:44:55,587 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-04-04 12:44:55,627 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-04-04 12:44:55,807 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-04-04 12:44:55,808 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-04-04 12:44:55,808 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-04-04 12:46:09,804 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-04-04 12:46:09,804 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-04-04 12:46:09,810 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-04-04 12:46:09,855 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-04-04 12:46:09,933 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-04-04 12:46:09,933 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-04-04 12:46:09,933 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-04-04 12:48:10,812 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-04-04 12:48:10,812 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-04-04 12:48:10,817 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-04-04 12:48:10,937 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-04-04 12:48:11,032 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-04-04 12:48:11,033 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-04-04 12:48:11,033 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-04-04 12:49:15,398 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-04-04 12:49:15,398 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-04-04 12:49:15,403 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-04-04 12:49:15,449 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-04-04 12:49:15,586 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-04-04 12:49:15,587 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-04-04 12:49:15,587 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------
+[Elasticsearch] 2022-04-04 12:49:52,191 insert_file_Elasticsearch 47 Config file details - host: PUN-WKS-758
+[Elasticsearch] 2022-04-04 12:49:52,192 insert_file_Elasticsearch 48 Config file details - portnumber: 9200
+[Elasticsearch] 2022-04-04 12:49:52,197 insert_file_Elasticsearch 68 Connection Established with Elasticsearch Engine: PUN-WKS-758
+[Elasticsearch] 2022-04-04 12:49:52,244 insert_file_Elasticsearch 107 Index create response: {'error': {'root_cause': [{'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}], 'type': 'resource_already_exists_exception', 'reason': 'index [video_editor_usage_stats_test/_Bb6VTJLRYm3MY5aeCOUFw] already exists', 'index_uuid': '_Bb6VTJLRYm3MY5aeCOUFw', 'index': 'video_editor_usage_stats_test'}, 'status': 400}
+[Elasticsearch] 2022-04-04 12:49:52,326 insert_file_Elasticsearch 121 Number of Records inserted: 1
+[Elasticsearch] 2022-04-04 12:49:52,326 insert_file_Elasticsearch 133 Inserted data into index: video_editor_usage_stats_test
+[Elasticsearch] 2022-04-04 12:49:52,326 insert_file_Elasticsearch 139 --------------------------------------------------------------------------------------------------

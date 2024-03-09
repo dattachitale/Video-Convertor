@@ -1,0 +1,14 @@
+DisplayName: UDEO - The VideoEditor Tool
+
+ProjectWebSite: https://gitlab-ncsa.ubisoft.org/india-automation/videoeditor_udeo/-/blob/main/README.md
+
+DownloadUrl: https://artifactory.ubisoft.org/generic-playground-local/Udeo/Udeo_SetupPrerelease/Udeo_SetupPrerelease-0.0.1-build4084FA65.exe
+SupportEmailAddress: sourabh.desai@ubisoft.com; dattatray.chitale@ubisoft.com
+
+Chatroom: https://teams.microsoft.com/l/channel/19%3a8154e67615254e39b3b67caaa4b0d090%40thread.tacv2/General?groupId=c5951944-3771-4773-ab1e-b236570a8af1&tenantId=e01bd386-fa51-4210-a2a4-29e5ab6f7ab1
+
+
+
+AutoBadges:
+
+  Enabled: true
